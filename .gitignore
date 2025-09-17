@@ -10,7 +10,7 @@ env/
 .venv
 
 # Test outputs
-processed_email.txt
+# processed_email.txt
 email_hashes.txt
 
 # Testing
